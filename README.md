@@ -4,4 +4,4 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-Next: https://nextjs.org/learn/dashboard-app/css-styling
+Next: https://nextjs.org/learn/dashboard-app/css-styling#using-the-clsx-library-to-toggle-class-names
