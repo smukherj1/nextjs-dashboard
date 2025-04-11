@@ -4,4 +4,4 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-Next: https://nextjs.org/learn/dashboard-app/setting-up-your-database#create-a-postgres-database
+Next: https://nextjs.org/learn/dashboard-app/fetching-data#fetching-data-for-revenuechart
